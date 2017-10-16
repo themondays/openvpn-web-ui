@@ -84,12 +84,6 @@
 			"revisionTime": "2016-12-05T15:14:26Z"
 		},
 		{
-			"checksumSHA1": "2rXYljag6Q/0GpOGAlWSdWMkmik=",
-			"path": "github.com/cloudfoundry/gosigar",
-			"revision": "c32d31af94b0e9d3b2877e49c1a581ad5a793343",
-			"revisionTime": "2016-06-02T19:12:07Z"
-		},
-		{
 			"checksumSHA1": "9NOEwusDSfhREf0ix7ULW9f3hhw=",
 			"path": "github.com/mattn/go-sqlite3",
 			"revision": "2d44decb4941c9cdf72c22297b7890faf7da9bcb",
