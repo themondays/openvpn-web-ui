@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/adamwalach/openvpn-web-ui/lib"
-	_ "github.com/adamwalach/openvpn-web-ui/routers"
+	"github.com/themondays/openvpn-web-ui/lib"
+	_ "github.com/themondays/openvpn-web-ui/routers"
 	"github.com/astaxie/beego"
 )
 
